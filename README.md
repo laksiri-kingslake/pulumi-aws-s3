@@ -106,3 +106,6 @@ curl $(pulumi stack output bucketEndpoint)
 ```
 pulumi destroy
 ```
+
+## Reference
+- https://www.pulumi.com/docs/clouds/aws/get-started/
